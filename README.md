@@ -2,16 +2,15 @@
 
 <!-- Animated Flaming Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=180&section=header&text=Raahim%20Asad%20🔥&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=180&width=900&section=header&text=Raahim%20Asad%20🔥&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/raahim152">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=red&center=true&vCenter=true&width=600&lines=🔥+Web+Developer;🔥+Game+Developer;🔥+Software+Engineer+in+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=🔥+Web+Developer;🔥+Game+Developer;🔥+Software+Engineer+in+Making" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ## 👋 **About Me**
