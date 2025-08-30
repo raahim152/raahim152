@@ -1,15 +1,5 @@
-<!-- 🦇 Batman Header -->
-<p align="center">
-  <img src="https://your-image-url.com/batman-banner-dark.jpg" alt="Batman Banner" width="900"/>
-</p>
-
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/raahim152">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Software+Engineer+in+Making" alt="Typing SVG" />
-  </a>
-</p>
+Raahim Asad
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Raahim%20Asad&fontAlign=50&fontAlignY=40&color=FF4500&textBg=false&desc=Web%20Developer%20|%20Game%20Developer%20|%20Software%20Engineer%20in%20Making&descAlign=50&descAlignY=60&fontSize=48&descSize=18" alt="Banner" /> </p> <p align="center"> <a href="https://github.com/raahim152"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=🔥+Web+Developer;🔥+Game+Developer;🔥+Software+Engineer+in+Making" alt="Typing SVG" /> </a> </p>
 
 
 ## 👋 **About Me**
