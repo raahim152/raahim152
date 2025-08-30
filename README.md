@@ -2,7 +2,7 @@
 
 <!-- Animated Flaming Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=180&width=2000&section=header&text=Raahim%20Asad%20fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=180&section=header&text=Raahim%20Asad%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- Typing Animation -->
