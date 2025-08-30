@@ -1,5 +1,4 @@
 
-<h2 align="center">## Hi there 👋, I am Raahim Asad</h2>
 
 <!-- Animated Flaming Header -->
 <p align="center">
