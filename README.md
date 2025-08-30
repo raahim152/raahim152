@@ -2,11 +2,13 @@
 
 *Turning ideas into code, one commit at a time* 🚀
 
-![Banner](https://i.ibb.co/VxZqT4c/github-banner.png) <!-- optional, can design one later -->
+<p align="center">
+  <a href="https://github.com/raahim152">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Developer;Game+Developer;Software+Engineer+in+Making" alt="Typing SVG" />
+  </a>
+</p>
 
----
-Hi! I'm **Raahim Asad**, a passionate **Software Engineering** student and aspiring **Game & Web Developer** from Pakistan 🇵🇰.
-I love exploring new technologies, solving real-world problems, and building projects that sharpen my skills.
+
 ---
 
 ## 👋 **About Me**
