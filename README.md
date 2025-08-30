@@ -1,6 +1,6 @@
 <!-- 🦇 Batman Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&width=1000&height=180&section=header&text=🦇%20Raahim%20Asad%20🦇&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Batman_logo.svg" alt="Batman Logo" width="300"/>
 </p>
 
 <!-- Typing Animation -->
