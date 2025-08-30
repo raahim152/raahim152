@@ -1,15 +1,22 @@
-<div align=:center>## Hi there 👋, I am Raahim Asad
 
-*Turning ideas into code, one commit at a time* 🚀
-</div>
+<h2 align="center">## Hi there 👋, I am Raahim Asad</h2>
 
+<!-- Animated Flaming Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=180&section=header&text=Raahim%20Asad%20🔥&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/raahim152">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF3131&center=true&vCenter=true&width=550&lines=🔥+Web+Developer;🔥+Game+Developer;🔥+Software+Engineer+in+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Web+Developer;🔥+Game+Developer;🔥+Software+Engineer+in+Making" alt="Typing SVG" />
   </a>
 </p>
 
-
+<!-- Cool Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
+</p>
 
 ---
 
