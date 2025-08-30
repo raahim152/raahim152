@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Software+Engineer+in+Making" alt="Typing SVG" />
   </a>
 </p>
----
+
 
 ## 👋 **About Me**
 
