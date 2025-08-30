@@ -1,12 +1,14 @@
-## Hi there 👋, I am Raahim Asad
+<div align=:center>## Hi there 👋, I am Raahim Asad
 
 *Turning ideas into code, one commit at a time* 🚀
+</div>
 
 <p align="center">
   <a href="https://github.com/raahim152">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Developer;Game+Developer;Software+Engineer+in+Making" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF3131&center=true&vCenter=true&width=550&lines=🔥+Web+Developer;🔥+Game+Developer;🔥+Software+Engineer+in+Making" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ---
