@@ -1,7 +1,8 @@
 <!-- 🦇 Batman Header -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Batman_logo.svg" alt="Batman Logo" width="300"/>
+  <img src="https://your-image-url.com/batman-banner-dark.jpg" alt="Batman Banner" width="900"/>
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
