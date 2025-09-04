@@ -80,19 +80,3 @@ A lightweight, responsive task manager app for daily productivity.
 </p>
 
 ---
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raahim152&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=0A0A0A" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raahim152&hide_border=true&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideNums=0A0A0A&currStreakNum=0A0A0A&sideLabels=0A0A0A" alt="Streak stats" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahim152&layout=compact&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=0A0A0A" alt="Top Languages" height="160"/>
-</p>
-
----
-
-### ✨ *"Code. Create. Learn. Repeat."*
-
